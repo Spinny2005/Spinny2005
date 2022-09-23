@@ -4,7 +4,12 @@
 
 I make dumb videogames on graphing calculators, program LEDs that blind you if you stare to long, and set shit on fire. If anyone has any suggestion for a stupid program I should make let me know. Programming stupid shit is way better than paying attention in school.
 
+
 <p align="left">
+
+ <a href="https://github.com/Spinny2005?tab=followers">
+    <img alt="followers" title="Follow me on Github" src="https://custom-icon-badges.demolab.com/github/followers/Spinny2005?color=236ad3&labelColor=1155ba&style=for-the-badge&logo=person-add&label=Follow&logoColor=white"/></a>
+    
   <a href="https://www.instagram.com/spin_boggs/?hl=en">
     <img alt="instagram" title="https://custom-icon-badges.demolab.com/github/followers/Spinny2005?color=236ad3&labelColor=1155ba&style=for-the-badge&logo=person-add&label=Instagram&logoColor=white"/></a> 
     
