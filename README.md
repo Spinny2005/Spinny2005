@@ -6,7 +6,7 @@ I make dumb videogames on graphing calculators, program LEDs that blind you if y
 
 <p align="left">
   <a href="https://www.instagram.com/spin_boggs/?hl=en">
-    <img alt="instagram" title="https://custom-icon-badges.demolab.com/instagram/followers/spin_boggs?color=%23E05D44&label=FOLLOW&logo=video&logoColor=white&style=for-the-badge&labelColor=CE4630"/></a> 
+    <img alt="instagram" title="https://custom-icon-badges.demolab.com/instagram/followers/spin_boggs?color=236ad3&labelColor=1155ba&style=for-the-badge&logo=person-add&label=Follow&logoColor=white"/></a> 
     
   <a href="https://twitter.com/spin_boggs">
     <img alt="twitter" title="Follow me on Twitter" src="https://custom-icon-badges.demolab.com/twitter/followers/spin_boggs?color=236ad3&labelColor=1155ba&style=for-the-badge&logo=person-add&label=Follow&logoColor=white"/></a> 
