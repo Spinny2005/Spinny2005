@@ -35,7 +35,6 @@ I make dumb videogames on graphing calculators, program LEDs that blind you if y
 
 #
 
-<p align="left">
 <a href="https://twitter.com/spin_boggs" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="spin_boggs" height="30" width="40" /></a>
 <a href="https://stackoverflow.com/users/spin_boggs" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="spin_boggs" height="30" width="40" /></a>
 <a href="https://instagram.com/spin_boggs" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="spin_boggs" height="30" width="40" /></a>
