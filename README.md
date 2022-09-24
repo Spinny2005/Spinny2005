@@ -34,6 +34,9 @@ I make dumb videogames on graphing calculators, program LEDs that blind you if y
 <br />
 
 ---
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=spinny2005" alt="spinny2005" /></a> </p>
+<p align="left">
+<a href="https://twitter.com/spin_boggs" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="spin_boggs" height="30" width="40" /></a>
+<a href="https://instagram.com/spin_boggs" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="spin_boggs" height="30" width="40" /></a>
+</p>
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=spinny2005&show_icons=true&theme=dark&locale=en" alt="spinny2005" /></p>
 
