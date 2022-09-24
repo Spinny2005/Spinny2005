@@ -35,5 +35,5 @@ I make dumb videogames on graphing calculators, program LEDs that blind you if y
 
 ---
 
-[![Spencers's GitHub stats](https://github-readme-stats.vercel.app/api?username=Spinny2005)](https://github.com/anuraghazra/github-readme-stats)
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=spinny2005&show_icons=true&theme=dark&locale=en" alt="spinny2005" /></p>
 
