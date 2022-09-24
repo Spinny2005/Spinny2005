@@ -4,7 +4,6 @@
 
 I make dumb videogames on graphing calculators, program LEDs that blind you if you stare to long, and set shit on fire. If anyone has any suggestion for a stupid program I should make let me know. Programming stupid shit is way better than paying attention in school.
 
-
 <p align="left">
 
  <a href="https://github.com/Spinny2005?tab=followers">
@@ -14,7 +13,7 @@ I make dumb videogames on graphing calculators, program LEDs that blind you if y
 
 ---
 
-# Stuff and Things
+## Tools and Languages
 <img align="left" alt="VsCode" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg"/>
 <img align="left" alt="VsCode" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jetbrains/jetbrains-original.svg"/>
 <img align="left" alt="Java" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg"/>
@@ -33,12 +32,17 @@ I make dumb videogames on graphing calculators, program LEDs that blind you if y
 
 <br />
 
-#
+---
+
+## Social Stuff
 <p>
 <a href="https://twitter.com/spin_boggs" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="spin_boggs" height="30" width="40" /></a>
 <a href="https://stackoverflow.com/users/20074074" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="20074074" height="30" width="40" /></a>
 <a href="https://instagram.com/spin_boggs" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="spin_boggs" height="30" width="40" /></a>
 </p>
 
+---
+
+## My Stats
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=spinny2005&show_icons=true&theme=dark&locale=en" alt="spinny2005" /></p>
 
