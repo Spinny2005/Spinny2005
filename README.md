@@ -15,7 +15,7 @@ I make dumb videogames on graphing calculators, program LEDs that blind you if y
 
 ## Tools and Languages
 <img align="left" alt="VsCode" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg"/>
-<img align="left" alt="VsCode" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jetbrains/jetbrains-original.svg"/>
+<img align="left" alt="JetBrains" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jetbrains/jetbrains-original.svg"/>
 <img align="left" alt="Java" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg"/>
 <img align="left" alt="JavaScript" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-plain.svg"/>
 <img align="left" alt="NodeJS" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg"/>
@@ -44,6 +44,6 @@ I make dumb videogames on graphing calculators, program LEDs that blind you if y
 ---
 
 ## My Stats
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=spinny2005&show_icons=true&theme=dark&locale=en" alt="spinny2005" /></p>
-<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Spinny2005&layout=compact&theme=dark&hide_border=true&bg_color=22272E00">
-
+<p>&nbsp;<img align="left" alt="spinny2005" style="padding-right:10px;" src="https://github-readme-stats.vercel.app/api?username=spinny2005&show_icons=true&theme=dark&locale=en" />
+<img align="left" alt="spinny2005" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Spinny2005&layout=compact&theme=dark&hide_border=true&bg_color=22272E00">
+</p>
