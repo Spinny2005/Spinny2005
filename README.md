@@ -44,6 +44,6 @@ I make dumb videogames on graphing calculators, program LEDs that blind you if y
 ---
 
 ## My Stats
-<p>&nbsp;<img align="left" alt="spinny2005" style="padding-right:10px;" src="https://github-readme-stats.vercel.app/api?username=spinny2005&show_icons=true&theme=dark&locale=en" />
-<img align="left" alt="spinny2005" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Spinny2005&layout=compact&theme=dark&hide_border=true&bg_color=22272E00">
+<p>&nbsp;<img align="left" alt="spinny2005" style="padding-right:10px;" src="https://github-readme-stats.vercel.app/api?username=spinny2005&show_icons=true&layout=compact&theme=dark&hide_border=true&bg_color=22272E00" />
+<img align="left" alt="spinny2005" src="https://github-readme-stats.vercel.app/api/top-langs/?username=spinny2005&layout=compact&theme=dark&hide_border=true&bg_color=22272E00">
 </p>
