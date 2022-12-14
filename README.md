@@ -40,6 +40,8 @@ I make dumb videogames on graphing calculators, program LEDs that blind you if y
 <a href="https://stackoverflow.com/users/20074074" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="20074074" height="30" width="40" /></a>
 <a href="https://instagram.com/spin_boggs" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="spin_boggs" height="30" width="40" /></a>
  <a href="https://www.linkedin.com/in/spencer-boggs-02243025a/" target ="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="Spencer Boggs" height="30" width="40" /></a>
+ https://codepen.io/spinny2005" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codepen.svg" alt="spinny2005" height="30" width="40" /></a>
+<a href="https://www.hackerearth.com/@spencer_boggs" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerearth.svg" alt="@spencer_boggs" height="30" width="40" /></a>
 </p>
 
 ---
