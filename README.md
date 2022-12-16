@@ -43,7 +43,7 @@ I make dumb videogames on graphing calculators, program LEDs that blind you if y
 <a href="https://instagram.com/spin_boggs" target="blank"><img align="left" style="padding-right:10px;" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="spin_boggs" height="30" width="30" /></a>
 <a href="https://www.linkedin.com/in/spencer-boggs-02243025a/" target ="blank"><img align="left" style="padding-right:10px;" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="Spencer Boggs" height="30" width="30" /></a>
 <a href="https://codepen.io/spinny2005" target="blank"><img align="left" style="padding-right:10px;" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codepen.svg" alt="spinny2005" height="30" width="30" /></a>
-<a href="https://www.hackerearth.com/@spencer_boggs" target="blank"><img align="left" style="padding-right:10px;" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerearth.svg" alt="@spencer_boggs" height="30" width="30" /></a>
+<a href="https://www.hackerearth.com/@spencer_boggs" target="blank"><img align="left" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerearth.svg" alt="@spencer_boggs" height="30" width="30" /></a>
 </p>
 
 <br />
