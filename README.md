@@ -44,9 +44,13 @@ I make dumb videogames on graphing calculators, program LEDs that blind you if y
 <a href="https://www.hackerearth.com/@spencer_boggs" target="blank"><img align="left" style="padding-right:10px;" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerearth.svg" alt="@spencer_boggs" height="30" width="30" /></a>
 </p>
 
+<br />
+
 ---
 
 ## My Stats
 <p>&nbsp;<img align="left" alt="spinny2005" src="https://github-readme-stats.vercel.app/api?username=spinny2005&show_icons=true&layout=compact&theme=dark&hide_border=true&bg_color=22272E00" />
 <img align="left" alt="spinny2005" src="https://github-readme-stats.vercel.app/api/top-langs/?username=spinny2005&layout=compact&langs_count=10&theme=dark&hide_border=true&bg_color=22272E00" />
 </p>
+
+<br />
