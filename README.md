@@ -29,7 +29,6 @@ I make dumb videogames on graphing calculators, program LEDs that blind you if y
 <img align="left" alt="Gradle" width="30px" style="padding-right:9px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/gradle/gradle-plain.svg"/>
 <img align="left" alt="Arduino" width="30px" style="padding-right:9px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/arduino/arduino-original.svg"/>
 <img align="left" alt="Arduino" width="30px" style="padding-right:9px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/raspberrypi/raspberrypi-original.svg" />
-<img align="left" alt="Arduino" width="30px" style="padding-right:9px;" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg"/>
 <img align="left" alt="Arduino" width="30px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg"/> </a>
 
 <br />
