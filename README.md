@@ -14,23 +14,23 @@ I make dumb videogames on graphing calculators, program LEDs that blind you if y
 ---
 
 ## Tools and Languages
-<img align="left" alt="VsCode" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg"/>
-<img align="left" alt="JetBrains" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jetbrains/jetbrains-original.svg"/>
-<img align="left" alt="Java" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg"/>
-<img align="left" alt="JavaScript" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-plain.svg"/>
-<img align="left" alt="NodeJS" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg"/>
-<img align="left" alt="React" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg"/>
-<img align="left" alt="Python" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-plain.svg"/>
-<img align="left" alt="HTML" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg"/>
-<img align="left" alt="CSS" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg"/>
-<img align="left" alt="NPM" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/npm/npm-original-wordmark.svg"/> 
-<img align="left" alt="Git" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg"/>
-<img align="left" alt="Bash" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bash/bash-original.svg"/>
-<img align="left" alt="Gradle" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/gradle/gradle-plain.svg"/>
-<img align="left" alt="Arduino" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/arduino/arduino-original.svg"/>
-<img align="left" alt="Arduino" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/raspberrypi/raspberrypi-original.svg" />
-<img align="left" alt="Arduino" width="30px" style="padding-right:10px;" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg"/>
-<img align="left" alt="Arduino" width="30px" style="padding-right:10px;" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg"/> </a>
+<img align="left" alt="VsCode" width="30px" style="padding-right:9px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg"/>
+<img align="left" alt="JetBrains" width="30px" style="padding-right:9px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jetbrains/jetbrains-original.svg"/>
+<img align="left" alt="Java" width="30px" style="padding-right:9px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg"/>
+<img align="left" alt="JavaScript" width="30px" style="padding-right:9px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-plain.svg"/>
+<img align="left" alt="NodeJS" width="30px" style="padding-right:9px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg"/>
+<img align="left" alt="React" width="30px" style="padding-right:9px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg"/>
+<img align="left" alt="Python" width="30px" style="padding-right:9px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-plain.svg"/>
+<img align="left" alt="HTML" width="30px" style="padding-right:9px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg"/>
+<img align="left" alt="CSS" width="30px" style="padding-right:9px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg"/>
+<img align="left" alt="NPM" width="30px" style="padding-right:9px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/npm/npm-original-wordmark.svg"/> 
+<img align="left" alt="Git" width="30px" style="padding-right:9px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg"/>
+<img align="left" alt="Bash" width="30px" style="padding-right:9px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bash/bash-original.svg"/>
+<img align="left" alt="Gradle" width="30px" style="padding-right:9px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/gradle/gradle-plain.svg"/>
+<img align="left" alt="Arduino" width="30px" style="padding-right:9px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/arduino/arduino-original.svg"/>
+<img align="left" alt="Arduino" width="30px" style="padding-right:9px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/raspberrypi/raspberrypi-original.svg" />
+<img align="left" alt="Arduino" width="30px" style="padding-right:9px;" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg"/>
+<img align="left" alt="Arduino" width="30px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg"/> </a>
 
 <br />
 
@@ -38,11 +38,11 @@ I make dumb videogames on graphing calculators, program LEDs that blind you if y
 
 ## Social Stuff
 <p>
-<a href="https://twitter.com/spin_boggs" target="blank"><img align="left" style="padding-right:10px;" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="spin_boggs" height="30" width="30" /></a>
-<a href="https://stackoverflow.com/users/20074074" target="blank"><img align="left" style="padding-right:10px;" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="20074074" height="30" width="30" /></a>
-<a href="https://instagram.com/spin_boggs" target="blank"><img align="left" style="padding-right:10px;" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="spin_boggs" height="30" width="30" /></a>
-<a href="https://www.linkedin.com/in/spencer-boggs-02243025a/" target ="blank"><img align="left" style="padding-right:10px;" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="Spencer Boggs" height="30" width="30" /></a>
-<a href="https://codepen.io/spinny2005" target="blank"><img align="left" style="padding-right:10px;" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codepen.svg" alt="spinny2005" height="30" width="30" /></a>
+<a href="https://twitter.com/spin_boggs" target="blank"><img align="left" style="padding-right:9px;" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="spin_boggs" height="30" width="30" /></a>
+<a href="https://stackoverflow.com/users/20074074" target="blank"><img align="left" style="padding-right:9px;" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="20074074" height="30" width="30" /></a>
+<a href="https://instagram.com/spin_boggs" target="blank"><img align="left" style="padding-right:9px;" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="spin_boggs" height="30" width="30" /></a>
+<a href="https://www.linkedin.com/in/spencer-boggs-02243025a/" target ="blank"><img align="left" style="padding-right:9px;" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="Spencer Boggs" height="30" width="30" /></a>
+<a href="https://codepen.io/spinny2005" target="blank"><img align="left" style="padding-right:9px;" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codepen.svg" alt="spinny2005" height="30" width="30" /></a>
 <a href="https://www.hackerearth.com/@spencer_boggs" target="blank"><img align="left" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerearth.svg" alt="@spencer_boggs" height="30" width="30" /></a>
 </p>
 
