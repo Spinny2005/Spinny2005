@@ -58,5 +58,4 @@ I make dumb videogames on graphing calculators, program LEDs that blind you if y
 <p>&nbsp;<img align="left" alt="spinny2005" src="https://github-readme-stats.vercel.app/api?username=spinny2005&show_icons=true&layout=compact&theme=dark&hide_border=true&bg_color=22272E00" />
 <img align="left" alt="spinny2005" src="https://github-readme-stats.vercel.app/api/top-langs/?username=spinny2005&layout=compact&langs_count=10&theme=dark&hide_border=true&bg_color=22272E00" />
 </p>
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=spinny2005" alt="spinny2005" /></a> </p>
 <br />
