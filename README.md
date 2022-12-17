@@ -34,7 +34,6 @@ I make dumb videogames on graphing calculators, program LEDs that blind you if y
 <br />
 
 ---
-<br />
 
 ## Social Stuff
 <p>
