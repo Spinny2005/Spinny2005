@@ -41,8 +41,13 @@ I make dumb videogames on graphing calculators, program LEDs that blind you if y
 <a href="https://stackoverflow.com/users/20074074" target="blank"><img align="left" style="padding-right:9px;" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="20074074" height="30" width="30" /></a>
 <a href="https://instagram.com/spin_boggs" target="blank"><img align="left" style="padding-right:9px;" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="spin_boggs" height="30" width="30" /></a>
 <a href="https://www.linkedin.com/in/spencer-boggs-02243025a/" target ="blank"><img align="left" style="padding-right:9px;" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="Spencer Boggs" height="30" width="30" /></a>
+<a href="https://codesandbox.com/spinny2005" target="blank"><img align="left" style="padding-right:9px;" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codesandbox.svg" alt="spinny2005" height="30" width="30" /></a>
+<a href="https://dev.to/spinny2005" target="blank"><img align="left" style="padding-right:9px;" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/devto.svg" alt="spinny2005" height="30" width="30" /></a>
 <a href="https://codepen.io/spinny2005" target="blank"><img align="left" style="padding-right:9px;" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codepen.svg" alt="spinny2005" height="30" width="30" /></a>
+<a href="https://hashnode.com/@spinny2005" target="blank"><img align="left" style="padding-right:9px;" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hashnode.svg" alt="@spinny2005" height="30" width="30" /></a>
+<a href="https://www.leetcode.com/spinny2005" target="blank"><img align="left" style="padding-right:9px;" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="spinny2005" height="30" width="30" /></a>
 <a href="https://www.hackerearth.com/@spencer_boggs" target="blank"><img align="left" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerearth.svg" alt="@spencer_boggs" height="30" width="30" /></a>
+ 
 </p>
 
 <br />
@@ -54,4 +59,5 @@ I make dumb videogames on graphing calculators, program LEDs that blind you if y
 <img align="left" alt="spinny2005" src="https://github-readme-stats.vercel.app/api/top-langs/?username=spinny2005&layout=compact&langs_count=10&theme=dark&hide_border=true&bg_color=22272E00" />
 </p>
 
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=spinny2005&show_icons=true&theme=dark&locale=en" alt="spinny2005" /></p>
 <br />
