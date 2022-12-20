@@ -62,6 +62,6 @@ I make dumb videogames on graphing calculators, program LEDs that blind you if y
 ---
 
 ## My Stats
-<a href="https://github.com/Spinny2005?tab=repositories" target="blank"><p>&nbsp;<img align="left" alt="spinny2005" src="https://github-readme-stats.vercel.app/api?username=spinny2005&show_icons=true&layout=compact&theme=dark&hide_border=true&bg_color=22272E00" /></a>
+<p>&nbsp;<a href="https://github.com/Spinny2005?tab=repositories" target="blank"><img align="left" alt="spinny2005" src="https://github-readme-stats.vercel.app/api?username=spinny2005&show_icons=true&layout=compact&theme=dark&hide_border=true&bg_color=22272E00" /></a>
 <a href="https://github.com/Spinny2005?tab=repositories" target="blank"><img align="left" alt="spinny2005" src="https://github-readme-stats.vercel.app/api/top-langs/?username=spinny2005&layout=compact&langs_count=10&theme=dark&hide_border=true&bg_color=22272E00" /></a>
 </p>
