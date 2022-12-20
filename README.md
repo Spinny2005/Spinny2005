@@ -6,30 +6,29 @@ I make dumb videogames on graphing calculators, program LEDs that blind you if y
 
 <p align="left">
 
- <a href="https://github.com/Spinny2005?tab=followers">
-    <img alt="followers" title="Follow me on Github" src="https://custom-icon-badges.demolab.com/github/followers/Spinny2005?color=white&labelColor=000000&style=for-the-badge&logo=person-add&label=github&logoColor=white"/></a>
+<a href="https://github.com/Spinny2005?tab=followers"><img alt="followers" title="Follow me on Github" src="https://custom-icon-badges.demolab.com/github/followers/Spinny2005?color=white&labelColor=000000&style=for-the-badge&logo=person-add&label=github&logoColor=white"/></a>
     
 </p>
 
 ---
 
 ## Tools and Languages
-<a href="https://code.visualstudio.com/" target="blank"><img align="left" alt="VsCode" width="30px" style="padding-right:9px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg"/>
-<img align="left" alt="JetBrains" width="30px" style="padding-right:9px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jetbrains/jetbrains-original.svg"/>
-<img align="left" alt="Java" width="30px" style="padding-right:9px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg"/>
-<img align="left" alt="JavaScript" width="30px" style="padding-right:9px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-plain.svg"/>
-<img align="left" alt="NodeJS" width="30px" style="padding-right:9px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg"/>
-<img align="left" alt="React" width="30px" style="padding-right:9px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg"/>
-<img align="left" alt="Python" width="30px" style="padding-right:9px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-plain.svg"/>
-<img align="left" alt="HTML" width="30px" style="padding-right:9px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg"/>
-<img align="left" alt="CSS" width="30px" style="padding-right:9px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg"/>
-<img align="left" alt="NPM" width="30px" style="padding-right:9px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/npm/npm-original-wordmark.svg"/> 
-<img align="left" alt="Git" width="30px" style="padding-right:9px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg"/>
-<img align="left" alt="Bash" width="30px" style="padding-right:9px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bash/bash-original.svg"/>
-<img align="left" alt="Gradle" width="30px" style="padding-right:9px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/gradle/gradle-plain.svg"/>
-<img align="left" alt="Arduino" width="30px" style="padding-right:9px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/arduino/arduino-original.svg"/>
-<img align="left" alt="Arduino" width="30px" style="padding-right:9px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/raspberrypi/raspberrypi-original.svg" />
-<img align="left" alt="Arduino" width="30px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg"/> </a>
+<a href="https://code.visualstudio.com/" target="blank"><img align="left" alt="VsCode" width="30px" style="padding-right:9px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg"/></a>
+<a href="https://www.jetbrains.com/" target="blank"><img align="left" alt="JetBrains" width="30px" style="padding-right:9px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jetbrains/jetbrains-original.svg"/></a>
+<a href="https://www.java.com/en/" target="blank"><img align="left" alt="Java" width="30px" style="padding-right:9px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg"/></a>
+<a href="https://www.javascript.com/" target="blank"><img align="left" alt="JavaScript" width="30px" style="padding-right:9px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-plain.svg"/></a>
+<a href="https://nodejs.org/en/" target="blank"><img align="left" alt="NodeJS" width="30px" style="padding-right:9px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg"/></a>
+<a href="https://reactjs.org/" target="blank"><img align="left" alt="React" width="30px" style="padding-right:9px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg"/></a>
+<a href="https://www.python.org/" target="blank"><img align="left" alt="Python" width="30px" style="padding-right:9px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-plain.svg"/></a>
+<a href="https://html.com/" target="blank"><img align="left" alt="HTML" width="30px" style="padding-right:9px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg"/></a>
+<a href="https://www.w3schools.com/css/" target="blank"><img align="left" alt="CSS" width="30px" style="padding-right:9px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg"/></a>
+<a href="https://www.npmjs.com/" target="blank"><img align="left" alt="NPM" width="30px" style="padding-right:9px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/npm/npm-original-wordmark.svg"/></a>
+<a href="https://git-scm.com/" target="blank"><img align="left" alt="Git" width="30px" style="padding-right:9px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg"/></a>
+<a href="https://www.gnu.org/software/bash/" target="blank"><img align="left" alt="Bash" width="30px" style="padding-right:9px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bash/bash-original.svg"/></a>
+<a href="https://gradle.org/" target="blank"><img align="left" alt="Gradle" width="30px" style="padding-right:9px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/gradle/gradle-plain.svg"/></a>
+<a href="https://www.arduino.cc/" target="blank"><img align="left" alt="Arduino" width="30px" style="padding-right:9px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/arduino/arduino-original.svg"/></a>
+<a href="https://www.raspberrypi.com/" target="blank"><img align="left" alt="RaspberryPI" width="30px" style="padding-right:9px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/raspberrypi/raspberrypi-original.svg"/></a>
+<a href="https://www.linux.org/" target="blank"><img align="left" alt="Linux" width="30px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg"/></a>
 
 <br />
 
