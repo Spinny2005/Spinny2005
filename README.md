@@ -13,7 +13,7 @@ I make dumb videogames on graphing calculators, program LEDs that blind you if y
 ---
 
 ## Tools and Languages
-<a href="https://code.visualstudio.com/" target="blank"><img align="left" alt="VsCode" width="30px" style="padding-right:9px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg"/></a>
+<a href="https://code.visualstudio.com/" target="_blank" rel="noopener noreferrer"><img align="left" alt="VsCode" width="30px" style="padding-right:9px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg"/></a>
 <a href="https://www.jetbrains.com/" target="blank"><img align="left" alt="JetBrains" width="30px" style="padding-right:9px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jetbrains/jetbrains-original.svg"/></a>
 <a href="https://www.java.com/en/" target="blank"><img align="left" alt="Java" width="30px" style="padding-right:9px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg"/></a>
 <a href="https://www.javascript.com/" target="blank"><img align="left" alt="JavaScript" width="30px" style="padding-right:9px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-plain.svg"/></a>
