@@ -45,7 +45,7 @@ I make dumb videogames on graphing calculators, program LEDs that blind you if y
 <a href="https://codepen.io/spinny2005" target="_blank" rel="noopener noreferrer"><img align="left" style="padding-right:9px;" src="icons/23.png" alt="spinny2005" height="30" width="30" /></a>
 <a href="https://hashnode.com/@spinny2005" target="_blank" rel="noopener noreferrer"><img align="left" style="padding-right:9px;" src="icons/24.png" alt="@spinny2005" height="30" width="30" /></a>
 <a href="https://www.leetcode.com/spinny2005" target="_blank" rel="noopener noreferrer"><img align="left" style="padding-right:9px;" src="icons/25.png" alt="spinny2005" height="30" width="30" /></a>
-<a href="https://www.hackerearth.com/@spencer_boggs" target="_blank" rel="noopener noreferrer"><img align="left" src="icons/27.png" alt="@spencer_boggs" height="30" width="30" /></a>
+<a href="https://www.hackerearth.com/@spencer_boggs" target="_blank" rel="noopener noreferrer"><img align="left" src="icons/26.png" alt="@spencer_boggs" height="30" width="30" /></a>
  
 </p>
 
