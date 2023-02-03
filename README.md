@@ -52,6 +52,15 @@ I make dumb videogames on graphing calculators, program LEDs that blind you if y
 <br />
 
 ---
+## Organizations
+<p>
+<a href="https://github.com/gaming-robot-gamer" target="_blank" rel="noopener noreferrer"><img src="https://avatars.githubusercontent.com/gaming-robot-gamer" width="40" align="left" style="padding-right:1px;"/></a>
+<a href="https://github.com/poly-rabboitcs" target="_blank" rel="noopener noreferrer"><img src="https://avatars.githubusercontent.com/poly-rabbotics" width="40" align="left" style="padding-right:1px;"/></a>
+</p>
+
+<br />
+
+---
 ## Support
 <p>
 <a href="https://www.buymeacoffee.com/spencerboggs" target="_blank" rel="noopener noreferrer"> <img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-white.png" height="50" width="210" alt="spencerboggs" /></a>
