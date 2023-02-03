@@ -55,7 +55,7 @@ I make dumb videogames on graphing calculators, program LEDs that blind you if y
 ## Organizations
 <p>
 <a href="https://github.com/gaming-robot-gamer" target="_blank" rel="noopener noreferrer"><img src="https://avatars.githubusercontent.com/gaming-robot-gamer" width="40" align="left" style="padding-right:1px;"/></a>
-<a href="https://github.com/poly-rabboitcs" target="_blank" rel="noopener noreferrer"><img src="https://avatars.githubusercontent.com/poly-rabbotics" width="40" align="left" style="padding-right:1px;"/></a>
+<a href="https://github.com/poly-rabbotics" target="_blank" rel="noopener noreferrer"><img src="https://avatars.githubusercontent.com/poly-rabbotics" width="40" align="left" style="padding-right:1px;"/></a>
 </p>
 
 <br />
